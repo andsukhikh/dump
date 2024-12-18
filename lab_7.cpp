@@ -23,6 +23,8 @@ std::string readFile(const std::string& filename)
     return out;
 }
 
+
+
 template <typename T>
 void writeFile(const std::string& filename, const std::vector<T>& number)
 {
