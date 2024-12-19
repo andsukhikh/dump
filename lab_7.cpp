@@ -151,7 +151,7 @@ void printVector(const std::vector<T>& vec, const char modification = '\n')
     }
 }
 
-
+//  testing 2
 void writeStringInFile(const std::string& filename, const std::string& writeable_str)
 {
     std::ofstream ofstr{filename.c_str()};
