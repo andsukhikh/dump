@@ -131,6 +131,8 @@ std::vector<std::string> SearchString(const std::string& str, const std::string&
     return vector_of_string;
 }
 
+// test
+
 template <typename T>
 void printVector(const std::vector<T>& vec, const char modification = '\n')
 {
